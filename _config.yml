@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+
+description: posts我的博客
+
+
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: 我的博客
